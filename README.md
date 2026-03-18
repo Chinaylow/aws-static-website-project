@@ -29,19 +29,19 @@ S3 (Origin) -> CloudFront (CDN) -> Users
 ## Screenshots
 
 ### Website live via CloudFront
-![Website](IMG_6649.jpeg)
+![Website](IMG_6110DD3A-1566-49DB-A46D-E799F117FD2F.jpeg)
 
 ### S3 Website Endpoint
 ![S3 Endpoint](IMG_6650.jpeg)
 
 ### Bucket Policy
-![Bucket Policy](IMG_6110DD3A-1566-49DB-A46D-E799F117FD2F.jpeg)
+![Bucket Policy](IMG_6651.jpeg)
 
 ### Static Website Hosting Enabled
-![Static Hosting](IMG_3AE3C381-0D26-4B30-B794-59ACEF18.jpeg)
+![Static Hosting](IMG_3AE3C381-0D26-4B30-B794-59ACEF18CE4F.jpeg)
 
 ### S3 Objects
-![Objects](IMG_21B6E60A-32D2-4A31-86AB-5F66BF08.jpeg)
+![Objects](IMG_6649.jpeg)
 
 ## Security Note
 Sensitive information has been excluded or anonymised where appropriate.
