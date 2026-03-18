@@ -1,7 +1,10 @@
 # AWS Static Website Hosting with CloudFront
 
+## Live Demo
+🚀 https://d1p29wxr8d99k.cloudfront.net
+
 ## Overview
-This project demonstrates how to deploy a static website using Amazon S3 and distribute it globally using Amazon CloudFront.
+This project demonstrates how to deploy a static website using Amazon S3 and distribute it globally using Amazon CloudFront with HTTPS enabled 
 
 ## Architecture
 S3 (Origin) -> CloudFront (CDN) -> Users
